@@ -7,7 +7,7 @@ An admin panel allows service providers to manage their services easily.
 
 - [Frontend Repository](https://github.com/musabansari-1/service-booking-platform-frontend.git) — User website (React, Next.js, Tailwind CSS)
 - [Backend Repository](https://github.com/musabansari-1/service-booking-platform-backend.git) — API and database (Node.js, Express JS)
-- [Admin Panel](https://github.com/musabansari-1/service-booking-platform-admin-panel.git) — Admin Panel FOr Service providers (React, Next.js, Tailwind CSS)
+- [Admin Panel](https://github.com/musabansari-1/service-booking-platform-admin-panel.git) — Admin Panel For Service providers (React, Next.js, Tailwind CSS)
 
 
 ## Features
